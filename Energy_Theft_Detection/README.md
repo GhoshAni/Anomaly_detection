@@ -10,6 +10,10 @@ First a Direct theft where the meter is partially or completely bypassed so actu
 
 Second Tariff misuse a customer’s electricity use type is mischaracterized, and an incorrect lower tariff is applied (i.e., energy use is misrepresented as a residential property even though it is used for commercial purposes).
 
+
+
+
+
 Third meter tampering When the meter itself is tampered with to prevent consumption from registering. 
 
 To tackle the problem AI enabled meter intelligence or 'Smart Meter' installation is needed But there are billions of consumers who has not installed smart meter. For those cases theft detection pipeline can be developed using Machine Learning or Deep Learning method.
