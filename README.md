@@ -3,7 +3,9 @@
  an anomaly is something that differs from a norm: a deviation, an exception. In software engineering, by anomaly we understand a rare occurrence or event that doesn’t fit into the pattern, and, therefore, seems suspicious. Some examples are:
 
 a.sudden burst or decrease in activity;
+
 b.error in the text;
+
 c.sudden rapid drop or increase in temperature.
 
 
