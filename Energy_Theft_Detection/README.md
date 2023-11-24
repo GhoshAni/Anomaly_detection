@@ -17,6 +17,8 @@ To tackle the problem AI enabled meter intelligence or 'Smart Meter' installatio
 
 https://ieeexplore.ieee.org/abstract/document/8610248 is a paper which discusses feature engineering and applying gradient boosting base classifiers on theft detection problem.
 
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://iarjset.com/wp-content/uploads/2021/01/IARJSET.2020.71203.pdf paper discusses many approaches to solve this problem.
+
 Energy Theft Detection problem is essentially an anomaly detection problem because For an energy provider there are millions of customer and only few hundred thousand theft cases can be confirmed. Hence, the problem presents itself as a severely imbalanced classification problem where positive to negative class ratio would be essentially less than 1%.
 
 Analysing the consumption pattern is the key component for solving this problem. Because energy theft can not be detected using any other parameter. The distribution of energy consumption of a consumer with theft will be different than a consumer with no theft.
